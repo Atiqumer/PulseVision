@@ -88,7 +88,7 @@ export default function Home() {
         <header className="flex items-center justify-between border-b border-white/10 pb-5">
           <div className="flex items-center gap-3">
             <div className="grid size-10 place-items-center rounded-xl bg-cyan-300 text-[#07111e] shadow-[0_0_28px_rgba(103,232,249,.2)]"><HeartPulse className="size-5" strokeWidth={2.4} /></div>
-            <div><p className="text-base font-semibold tracking-tight">Pulse Lens</p><p className="text-xs text-slate-400">Experimental camera-based pulse estimation</p></div>
+            <div><p className="text-base font-semibold tracking-tight">PulseVision</p><p className="text-xs text-slate-400">Experimental camera-based pulse estimation</p></div>
           </div>
           <div className="hidden items-center gap-2 text-sm text-slate-400 sm:flex"><LockKeyhole className="size-4 text-cyan-300" />Processing stays on this device</div>
         </header>

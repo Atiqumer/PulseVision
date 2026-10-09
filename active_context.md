@@ -2,7 +2,7 @@
 
 ## Project
 
-**Pulse Lens** — an experimental, privacy-first browser application for estimating resting pulse from webcam video. It is for wellness and educational use only; it is not a medical device.
+**PulseVision** — an experimental, privacy-first browser application for estimating resting pulse from webcam video. It is for wellness and educational use only; it is not a medical device.
 
 ## Current status
 

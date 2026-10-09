@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Pulse Lens — Experimental Pulse Estimation",
+  title: "PulseVision — Experimental Pulse Estimation",
   description: "A privacy-first, browser-based experimental pulse estimation workspace.",
   other: {
     "codex-preview": "development",
